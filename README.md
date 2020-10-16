@@ -10,6 +10,7 @@ O foco especial será o trabalho com dados utilizando Python e [Jupyter Notebook
 - Bancos de dados relacionais e PostgreSQL (em construção)
 - sqlalchemy, psycopg2 e getpass (em construção)
 - Matplotlib e seaborn (em construção)
+- Construção de mapas com folium (em construção)
 
 ### Indicações de leitura:
 - Sobre o Jupyter Notebook:
