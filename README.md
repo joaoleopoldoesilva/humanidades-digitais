@@ -2,7 +2,7 @@
 
 Este repositório é destinado a introduzir e divulgar, em pt-br, técnicas de trabalho na interação entre computação e humanidades para estudades de graduação, pós-graduação, pesquisadores e professores das humanidades.
 
-O foco especial será o trabalho com dados utilizando Python e [Jupyter Notebook (ou Lab)](https://www.anaconda.com/), passando por metodologia de pesquisa e concepções gerais sobre bases de dados relacionais em [PostgreSQL](https://www.postgresql.org/). O material é composto por mini-tutoriais e foi organizado a partir de informações encontradas em diversos sites e cursos
+O foco especial será o trabalho com dados utilizando Python e [Jupyter Notebook (ou Lab)](https://www.anaconda.com/), passando por metodologia de pesquisa e concepções gerais sobre bases de dados relacionais em [PostgreSQL](https://www.postgresql.org/). O material é composto por mini-tutoriais organizado a partir da minha experiência pessoal no campo e de informações encontradas em diversos sites e cursos.
 
 ### Conteúdo:
 - Data pipeline e método científico (em construção)
